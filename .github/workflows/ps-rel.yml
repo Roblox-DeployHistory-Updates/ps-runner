@@ -11,7 +11,7 @@ jobs:
   fetch-and-release:
     runs-on: ubuntu-latest
     env:
-      XML_URL: https://gs-sec.ww.np.dl.playstation.net/plo/np/CUSA06122/f3bbda798c8138512d364dd87d9ce5adfefc39f60511a59c08b17b03ba6e5b3b/CUSA06122-ver.xml
+      XML_URL: http://gs-sec.ww.np.dl.playstation.net/plo/np/CUSA06122/f3bbda798c8138512d364dd87d9ce5adfefc39f60511a59c08b17b03ba6e5b3b/CUSA06122-ver.xml
 
     steps:
       - name: Download CUSA06122-ver.xml
