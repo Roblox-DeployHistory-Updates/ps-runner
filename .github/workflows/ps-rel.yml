@@ -14,6 +14,9 @@ jobs:
       XML_URL: http://gs-sec.ww.np.dl.playstation.net/plo/np/CUSA06122/f3bbda798c8138512d364dd87d9ce5adfefc39f60511a59c08b17b03ba6e5b3b/CUSA06122-ver.xml
 
     steps:
+      - name: Install xmllint
+        run: sudo apt-get install -y libxml2-utils
+
       - name: Download CUSA06122-ver.xml
         run: |
           curl -sSL "$XML_URL" -o CUSA06122-ver.xml
