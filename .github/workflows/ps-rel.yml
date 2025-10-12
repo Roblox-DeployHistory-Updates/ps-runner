@@ -15,7 +15,9 @@ jobs:
 
     steps:
       - name: Install xmllint
-        run: sudo apt-get install -y libxml2-utils
+        run: |
+          curl -o /tmp/libxml2-utils_2.9.14+dfsg-1.3ubuntu3.5_amd64.deb https://security.ubuntu.com/ubuntu/pool/main/libx/libxml2/libxml2-utils_2.9.14+dfsg-1.3ubuntu3.5_amd64.deb
+          sudo dpkg -i /tmp/libxml2-utils_2.9.14+dfsg-1.3ubuntu3.5_amd64.deb
 
       - name: Download CUSA06122-ver.xml
         run: |
@@ -30,7 +32,7 @@ jobs:
           playgo_url=$(xmllint --xpath 'string(//latest_playgo_manifest/@url)' CUSA06122-ver.xml)
           content_id=$(xmllint --xpath 'string(//package/@content_id)' CUSA06122-ver.xml)
           digest=$(xmllint --xpath 'string(//package/@digest)' CUSA06122-ver.xml)
-          
+
           echo "version=$version" >> "$GITHUB_OUTPUT"
           echo "manifest_url=$manifest_url" >> "$GITHUB_OUTPUT"
           echo "playgo_url=$playgo_url" >> "$GITHUB_OUTPUT"
@@ -70,6 +72,7 @@ jobs:
           pkg_hash=$(jq -r '.pieces[0].hashValue' "$manifest_name")
           pkg_name=$(basename "$pkg_url")
 
+          echo "manifest_name=$manifest_name" >> "$GITHUB_OUTPUT"
           echo "pkg_url=$pkg_url" >> "$GITHUB_OUTPUT"
           echo "pkg_name=$pkg_name" >> "$GITHUB_OUTPUT"
           echo "pkg_size=$pkg_size" >> "$GITHUB_OUTPUT"
@@ -108,7 +111,7 @@ jobs:
             PKG Hash: ${{ steps.download.outputs.pkg_hash }}
           artifacts: |
             CUSA06122-ver.xml
-            $(basename "${{ steps.extract.outputs.manifest_url }}")
+            ${{ steps.download.outputs.manifest_name }}
             ${{ steps.download.outputs.pkg_name }}
 
       - name: Archive to Wayback Machine
