@@ -1,0 +1,126 @@
+name: PS Fetch and Release
+permissions: write-all
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch:
+  push:
+
+jobs:
+  fetch-and-release:
+    runs-on: ubuntu-latest
+    env:
+      XML_URL: https://gs-sec.ww.np.dl.playstation.net/plo/np/CUSA06122/f3bbda798c8138512d364dd87d9ce5adfefc39f60511a59c08b17b03ba6e5b3b/CUSA06122-ver.xml
+
+    steps:
+      - name: Download CUSA06122-ver.xml
+        run: |
+          curl -sSL "$XML_URL" -o CUSA06122-ver.xml
+          cat CUSA06122-ver.xml
+
+      - name: Extract version info
+        id: extract
+        run: |
+          version=$(xmllint --xpath 'string(//package/@version)' CUSA06122-ver.xml)
+          manifest_url=$(xmllint --xpath 'string(//package/@manifest_url)' CUSA06122-ver.xml)
+          playgo_url=$(xmllint --xpath 'string(//latest_playgo_manifest/@url)' CUSA06122-ver.xml)
+          content_id=$(xmllint --xpath 'string(//package/@content_id)' CUSA06122-ver.xml)
+          digest=$(xmllint --xpath 'string(//package/@digest)' CUSA06122-ver.xml)
+          
+          echo "version=$version" >> "$GITHUB_OUTPUT"
+          echo "manifest_url=$manifest_url" >> "$GITHUB_OUTPUT"
+          echo "playgo_url=$playgo_url" >> "$GITHUB_OUTPUT"
+          echo "content_id=$content_id" >> "$GITHUB_OUTPUT"
+          echo "digest=$digest" >> "$GITHUB_OUTPUT"
+
+      - name: Get latest release version
+        id: get_latest
+        continue-on-error: true
+        run: |
+          latest_json=$(curl -sSL \
+            -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
+            https://api.github.com/repos/${{ github.repository }}/releases/latest)
+
+          desc=$(echo "$latest_json" | jq -r '.body // ""')
+          if echo "$desc" | grep -q 'Version:'; then
+            latest_version=$(echo "$desc" | grep -o 'Version: .*' | cut -d' ' -f2)
+            echo "latest_version=$latest_version" >> "$GITHUB_OUTPUT"
+          else
+            echo "latest_version=none" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Download manifests if new version
+        if: steps.extract.outputs.version != steps.get_latest.outputs.latest_version
+        id: download
+        run: |
+          echo "Downloading manifest.json..."
+          manifest_name=$(basename "${{ steps.extract.outputs.manifest_url }}")
+          curl -sSL "${{ steps.extract.outputs.manifest_url }}" -o "$manifest_name"
+
+          echo "Downloading playgo-manifest.xml..."
+          curl -sSL "${{ steps.extract.outputs.playgo_url }}" -o "playgo-manifest.xml"
+
+          echo "Extracting .pkg info from manifest..."
+          pkg_url=$(jq -r '.pieces[0].url' "$manifest_name")
+          pkg_size=$(jq -r '.pieces[0].fileSize' "$manifest_name")
+          pkg_hash=$(jq -r '.pieces[0].hashValue' "$manifest_name")
+          pkg_name=$(basename "$pkg_url")
+
+          echo "pkg_url=$pkg_url" >> "$GITHUB_OUTPUT"
+          echo "pkg_name=$pkg_name" >> "$GITHUB_OUTPUT"
+          echo "pkg_size=$pkg_size" >> "$GITHUB_OUTPUT"
+          echo "pkg_hash=$pkg_hash" >> "$GITHUB_OUTPUT"
+
+          echo "Downloading .pkg file..."
+          curl -sSL "$pkg_url" -o "$pkg_name"
+
+      - name: Check if tag already exists
+        id: tagcheck
+        if: steps.extract.outputs.version != steps.get_latest.outputs.latest_version
+        run: |
+          tag_name="v${{ steps.extract.outputs.version }}"
+          if git ls-remote --tags origin | grep -q "refs/tags/${tag_name}$"; then
+            echo "tag_exists=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "tag_exists=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Create GitHub release
+        if: steps.extract.outputs.version != steps.get_latest.outputs.latest_version && steps.tagcheck.outputs.tag_exists == 'false'
+        uses: ncipollo/release-action@v1
+        with:
+          tag: v${{ steps.extract.outputs.version }}
+          name: Roblox PS v${{ steps.extract.outputs.version }}
+          body: |
+            Version: ${{ steps.extract.outputs.version }}
+            Content ID: ${{ steps.extract.outputs.content_id }}
+            Digest: ${{ steps.extract.outputs.digest }}
+
+            Manifest URL: ${{ steps.extract.outputs.manifest_url }}
+
+            PKG File: ${{ steps.download.outputs.pkg_url }}
+            PKG Name: ${{ steps.download.outputs.pkg_name }}
+            PKG Size: ${{ steps.download.outputs.pkg_size }} bytes
+            PKG Hash: ${{ steps.download.outputs.pkg_hash }}
+          artifacts: |
+            CUSA06122-ver.xml
+            $(basename "${{ steps.extract.outputs.manifest_url }}")
+            ${{ steps.download.outputs.pkg_name }}
+
+      - name: Archive to Wayback Machine
+        if: steps.extract.outputs.version != steps.get_latest.outputs.latest_version && steps.tagcheck.outputs.tag_exists == 'false'
+        run: |
+          echo "Archiving XML, manifest, playgo, and PKG URLs to Wayback Machine..."
+
+          for url in \
+            "$XML_URL" \
+            "${{ steps.extract.outputs.manifest_url }}" \
+            "${{ steps.extract.outputs.playgo_url }}" \
+            "${{ steps.download.outputs.pkg_url }}"; do
+            curl -s -X POST \
+              -H "Accept: application/json" \
+              -H "Authorization: LOW ${{ secrets.ARCHIVE_ORG_ACCESS_KEY }}:${{ secrets.ARCHIVE_ORG_SECRET_KEY }}" \
+              --data-urlencode "url=$url" \
+              https://web.archive.org/save
+          done
