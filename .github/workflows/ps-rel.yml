@@ -84,6 +84,13 @@ jobs:
           echo "Downloading .pkg file..."
           curl -sSL "$pkg_url" -o "$pkg_name"
 
+          patch_notes=$(strings "$pkg_name" | awk '/<changeinfo>/,/<\/changeinfo>/' |
+          sed -n '/<!\[CDATA\[/,/\]\]>/p' |
+          sed 's/<!\[CDATA\[//;s/\]\]>//' |
+          tr '\n' ' ' | sed 's/  */ /g; s/^ *//; s/ *$//')
+
+          echo "patch_notes=$patch_notes" >> "$GITHUB_OUTPUT"
+
       - name: Check if tag already exists
         id: tagcheck
         if: steps.extract.outputs.version != steps.get_latest.outputs.latest_version
@@ -112,6 +119,8 @@ jobs:
             PKG Name: ${{ steps.download.outputs.pkg_name }}
             PKG Size: ${{ steps.download.outputs.pkg_size }} bytes
             PKG Hash: ${{ steps.download.outputs.pkg_hash }}
+
+            Patch Notes: `${{ steps.download.outputs.patch_notes }}`
           artifacts: |
             CUSA06122-ver.xml
             ${{ steps.download.outputs.manifest_name }}
