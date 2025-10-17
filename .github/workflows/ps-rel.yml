@@ -17,11 +17,6 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v5
 
-      - name: Install xmllint
-        run: |
-          curl -o /tmp/libxml2-utils_2.9.14+dfsg-1.3ubuntu3.5_amd64.deb https://security.ubuntu.com/ubuntu/pool/main/libx/libxml2/libxml2-utils_2.9.14+dfsg-1.3ubuntu3.5_amd64.deb
-          sudo dpkg -i /tmp/libxml2-utils_2.9.14+dfsg-1.3ubuntu3.5_amd64.deb
-
       - name: Download CUSA06122-ver.xml
         run: |
           curl -sSL "$XML_URL" -o CUSA06122-ver.xml
@@ -30,11 +25,11 @@ jobs:
       - name: Extract version info
         id: extract
         run: |
-          version=$(xmllint --xpath 'string(//package/@version)' CUSA06122-ver.xml)
-          manifest_url=$(xmllint --xpath 'string(//package/@manifest_url)' CUSA06122-ver.xml)
-          playgo_url=$(xmllint --xpath 'string(//latest_playgo_manifest/@url)' CUSA06122-ver.xml)
-          content_id=$(xmllint --xpath 'string(//package/@content_id)' CUSA06122-ver.xml)
-          digest=$(xmllint --xpath 'string(//package/@digest)' CUSA06122-ver.xml)
+          version=$(grep -oP 'package[^>]*\bversion="\K[^"]+' CUSA06122-ver.xml | head -n1)
+          manifest_url=$(grep -oP 'package[^>]*\bmanifest_url="\K[^"]+' CUSA06122-ver.xml | head -n1)
+          playgo_url=$(grep -oP 'latest_playgo_manifest[^>]*\burl="\K[^"]+' CUSA06122-ver.xml | head -n1)
+          content_id=$(grep -oP 'package[^>]*\bcontent_id="\K[^"]+' CUSA06122-ver.xml | head -n1)
+          digest=$(grep -oP 'package[^>]*\bdigest="\K[^"]+' CUSA06122-ver.xml | head -n1)
 
           echo "version=$version" >> "$GITHUB_OUTPUT"
           echo "manifest_url=$manifest_url" >> "$GITHUB_OUTPUT"
