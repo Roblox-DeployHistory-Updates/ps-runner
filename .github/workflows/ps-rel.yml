@@ -58,8 +58,19 @@ jobs:
             echo "latest_version=none" >> "$GITHUB_OUTPUT"
           fi
 
-      - name: Download manifests if new version
+      - name: Check if tag already exists
+        id: tagcheck
         if: steps.extract.outputs.version != steps.get_latest.outputs.latest_version
+        run: |
+          tag_name="v${{ steps.extract.outputs.version }}"
+          if git ls-remote --tags origin | grep -q "refs/tags/${tag_name}$"; then
+            echo "tag_exists=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "tag_exists=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Download manifest and package if newer
+        if: steps.extract.outputs.version != steps.get_latest.outputs.latest_version && steps.tagcheck.outputs.tag_exists == 'false'
         id: download
         run: |
           echo "Downloading manifest.json..."
@@ -90,17 +101,6 @@ jobs:
           tr '\n' ' ' | sed 's/  */ /g; s/^ *//; s/ *$//')
 
           echo "patch_notes=$patch_notes" >> "$GITHUB_OUTPUT"
-
-      - name: Check if tag already exists
-        id: tagcheck
-        if: steps.extract.outputs.version != steps.get_latest.outputs.latest_version
-        run: |
-          tag_name="v${{ steps.extract.outputs.version }}"
-          if git ls-remote --tags origin | grep -q "refs/tags/${tag_name}$"; then
-            echo "tag_exists=true" >> "$GITHUB_OUTPUT"
-          else
-            echo "tag_exists=false" >> "$GITHUB_OUTPUT"
-          fi
 
       - name: Create GitHub release
         if: steps.extract.outputs.version != steps.get_latest.outputs.latest_version && steps.tagcheck.outputs.tag_exists == 'false'
