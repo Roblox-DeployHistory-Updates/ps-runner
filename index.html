@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>PlayStation Builds · ps-runner</title>
+    <meta name="description" content="PlayStation Build listing for Roblox-DeployHistory-Updates/ps-runner." />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
+  <link rel="icon" href="./web/ps.svg" type="image/svg+xml" />
+    <link rel="stylesheet" href="./web/styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="container header-inner">
+        <div class="brand">
+          <img class="logo" src="./web/ps.svg" alt="PS" />
+          <div class="brand-text">
+            <h1>PlayStation Builds</h1>
+            <p class="repo">Roblox-DeployHistory-Updates / ps-runner</p>
+          </div>
+        </div>
+        <nav class="header-actions">
+          <a class="gh-link" target="_blank" rel="noopener noreferrer" href="https://github.com/Roblox-DeployHistory-Updates/ps-runner/releases" aria-label="View releases on GitHub">
+            <svg class="gh-icon" viewBox="0 0 16 16" aria-hidden="true" focusable="false">
+              <path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.01.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.11.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.19 0 .21.15.46.55.38A8.013 8.013 0 0 0 16 8c0-4.42-3.58-8-8-8Z"></path>
+            </svg>
+            <span class="gh-text">View releases on GitHub</span>
+          </a>
+        </nav>
+      </div>
+    </header>
+
+    <main class="container">
+      <section class="controls card">
+        <div class="control-row">
+          <div class="search">
+            <input id="searchInput" type="search" placeholder="Search by tag, name, or notes…" aria-label="Search releases" />
+            <span class="kbd">/</span>
+          </div>
+          <div class="toggles">
+            <label class="toggle">
+              <input id="usePSLinks" type="checkbox" />
+              <span>Use PS CDN links</span>
+            </label>
+          </div>
+        </div>
+      </section>
+
+      <section id="status" class="status">
+        <div class="skeleton-list" id="skeletonList" aria-hidden="true"></div>
+        <div class="visually-hidden" id="liveRegion" aria-live="polite"></div>
+      </section>
+
+      <section id="grid" class="grid" aria-live="polite" aria-busy="true"></section>
+    </main>
+
+    <footer class="site-footer container">
+      <p>Built with ❤️ by <a href="https://yakov.cloud/" target="_blank" rel="noopener noreferrer">Yakov</a> | <a href="https://github.com/Yakov5776" target="_blank" rel="noopener noreferrer">GitHub</a> | <a href="https://ko-fi.com/yakov5776" target="_blank" rel="noopener noreferrer">Ko-Fi</a></p>
+    </footer>
+
+    <script>
+      // Quick keyboard focus to search
+      window.addEventListener('keydown', (e) => {
+        if (e.key === '/' && document.activeElement?.tagName !== 'INPUT') {
+          e.preventDefault();
+          document.getElementById('searchInput')?.focus();
+        }
+      });
+    </script>
+    <script type="module" src="./web/app.js"></script>
+  </body>
+  </html>

@@ -1,0 +1,1384 @@
+[
+    {
+        "tag_name": "v02.07",
+        "name": "Roblox PS v02.07",
+        "published_at": "2025-09-30T00:00:00",
+        "details": {
+            "version": "02.07",
+            "required_firmware": "13.00",
+            "content_id": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA",
+            "pkg_file": "http://gs2.ww.prod.dl.playstation.net/gs2/ppkgo/prod/CUSA06122_00/136/f_6dedb9d9dfdda231f620a6f6afb5c0cd4eb83820dff500bd2b9c694a7f2f2f2b/f/UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0207-V0100.pkg",
+            "pkg_name": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0207-V0100.pkg",
+            "pkg_size": "217.9 MB",
+            "pkg_hash": "40ee008f0341caab08d08c70a5e47dc89fcacf2b",
+            "patch_notes": "To make Roblox work better for you, we deliver updates regularly. These updates include bug fixes and improvements for speed and reliability."
+        }
+    },
+    {
+        "tag_name": "v02.06",
+        "name": "Roblox PS v02.06",
+        "published_at": "2025-09-23T00:00:00",
+        "details": {
+            "version": "02.06",
+            "required_firmware": "13.00",
+            "content_id": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA",
+            "digest": "946A61A289E97565837AFADB4A974F34D4AC046A12BBF4B72D274724A73002E9",
+            "manifest_url": "https://gs2.ww.prod.dl.playstation.net/gs2/ppkgo/prod/CUSA06122_00/135/f_f908f5ebca6e3c19b3f3a2a02317ada8f4983f6a6cb7a11b142033cab11c78dc/f/UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0206-V0100.json",
+            "pkg_file": "http://gs2.ww.prod.dl.playstation.net/gs2/ppkgo/prod/CUSA06122_00/135/f_f908f5ebca6e3c19b3f3a2a02317ada8f4983f6a6cb7a11b142033cab11c78dc/f/UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0206-V0100.pkg",
+            "pkg_name": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0206-V0100.pkg",
+            "pkg_size_bytes": 229179392,
+            "pkg_hash": "199e4fef8aa0d650dce7140e9277c3772e98343e",
+            "patch_notes": "To make Roblox work better for you, we deliver updates regularly. These updates include bug fixes and improvements for speed and reliability."
+        }
+    },
+    {
+        "tag_name": "v02.05",
+        "name": "Roblox PS v02.05",
+        "published_at": "2025-09-16T00:00:00",
+        "details": {
+            "version": "02.05",
+            "required_firmware": "12.52",
+            "content_id": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA",
+            "pkg_file": "http://gs2.ww.prod.dl.playstation.net/gs2/ppkgo/prod/CUSA06122_00/134/f_cab932801a4c44eb997d21dae98593f208d4a34f59af6af30848f16f53b5aa49/f/UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0205-V0100.pkg",
+            "pkg_name": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0205-V0100.pkg",
+            "pkg_size": "217.8 MB",
+            "pkg_hash": "c5e7491b8972f742955463db7f71120e2445c18e",
+            "patch_notes": "To make Roblox work better for you, we deliver updates regularly. These updates include bug fixes and improvements for speed and reliability."
+        }
+    },
+    {
+        "tag_name": "v02.04",
+        "name": "Roblox PS v02.04",
+        "published_at": "2025-09-09T00:00:00",
+        "details": {
+            "version": "02.04",
+            "required_firmware": "12.52",
+            "content_id": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA",
+            "pkg_file": "http://gs2.ww.prod.dl.playstation.net/gs2/ppkgo/prod/CUSA06122_00/133/f_e57414cfe92e533a898f5c663622a5e88dcd3ef876ee3c55e86953f6553c94c7/f/UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0204-V0100.pkg",
+            "pkg_name": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0204-V0100.pkg",
+            "pkg_size": "216.4 MB",
+            "pkg_hash": "",
+            "patch_notes": "To make Roblox work better for you, we deliver updates regularly. These updates include bug fixes and improvements for speed and reliability."
+        }
+    },
+    {
+        "tag_name": "v02.03",
+        "name": "Roblox PS v02.03",
+        "published_at": "2025-09-03T00:00:00",
+        "details": {
+            "version": "02.03",
+            "required_firmware": "12.52",
+            "content_id": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA",
+            "pkg_file": "http://gs2.ww.prod.dl.playstation.net/gs2/ppkgo/prod/CUSA06122_00/132/f_266dca90f332413d1a29e4afb53a9ee25abbe2ad28ca6be8909789a50a8e319c/f/UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0203-V0100.pkg",
+            "pkg_name": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0203-V0100.pkg",
+            "pkg_size": "215.6 MB",
+            "pkg_hash": "",
+            "patch_notes": "To make Roblox work better for you, we deliver updates regularly. These updates include bug fixes and improvements for speed and reliability."
+        }
+    },
+    {
+        "tag_name": "v02.02",
+        "name": "Roblox PS v02.02",
+        "published_at": "2025-08-26T00:00:00",
+        "details": {
+            "version": "02.02",
+            "required_firmware": "12.52",
+            "content_id": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA",
+            "pkg_file": "http://gs2.ww.prod.dl.playstation.net/gs2/ppkgo/prod/CUSA06122_00/130/f_e37607e2845337ce7f77e8076ffc4e8350e89a82679dfb12d76ffc6978824e12/f/UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0202-V0100.pkg",
+            "pkg_name": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0202-V0100.pkg",
+            "pkg_size": "215.2 MB",
+            "pkg_hash": "",
+            "patch_notes": "To make Roblox work better for you, we deliver updates regularly. These updates include bug fixes and improvements for speed and reliability."
+        }
+    },
+    {
+        "tag_name": "v02.01",
+        "name": "Roblox PS v02.01",
+        "published_at": "2025-08-19T00:00:00",
+        "details": {
+            "version": "02.01",
+            "required_firmware": "12.52",
+            "content_id": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA",
+            "pkg_file": "http://gs2.ww.prod.dl.playstation.net/gs2/ppkgo/prod/CUSA06122_00/129/f_2a3b8d09ebc1be43207d98f726ecefc875002ef842da1c58b1711be6138e0442/f/UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0201-V0100.pkg",
+            "pkg_name": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0201-V0100.pkg",
+            "pkg_size": "214.1 MB",
+            "pkg_hash": "",
+            "patch_notes": "To make Roblox work better for you, we deliver updates regularly. These updates include bug fixes and improvements for speed and reliability."
+        }
+    },
+    {
+        "tag_name": "v01.98",
+        "name": "Roblox PS v01.98",
+        "published_at": "2025-08-05T00:00:00",
+        "details": {
+            "version": "01.98",
+            "required_firmware": "12.52",
+            "content_id": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA",
+            "pkg_file": "http://gs2.ww.prod.dl.playstation.net/gs2/ppkgo/prod/CUSA06122_00/125/f_3a6685356252506dffd6a04bdfbe4ca9afbb829588a852fe85ac7620ef81ebc4/f/UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0198-V0100.pkg",
+            "pkg_name": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0198-V0100.pkg",
+            "pkg_size": "217.4 MB",
+            "pkg_hash": "",
+            "patch_notes": "To make Roblox work better for you, we deliver updates regularly. These updates include bug fixes and improvements for speed and reliability."
+        }
+    },
+    {
+        "tag_name": "v01.97",
+        "name": "Roblox PS v01.97",
+        "published_at": "2025-07-29T00:00:00",
+        "details": {
+            "version": "01.97",
+            "required_firmware": "12.52",
+            "content_id": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA",
+            "pkg_file": "http://gs2.ww.prod.dl.playstation.net/gs2/ppkgo/prod/CUSA06122_00/124/f_9b32b6357a42e76a8a2893666db44ec853209f66d44e3beecd790934282e7f4e/f/UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0197-V0100.pkg",
+            "pkg_name": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0197-V0100.pkg",
+            "pkg_size": "216 MB",
+            "pkg_hash": "",
+            "patch_notes": "To make Roblox work better for you, we deliver updates regularly. These updates include bug fixes and improvements for speed and reliability."
+        }
+    },
+    {
+        "tag_name": "v01.96",
+        "name": "Roblox PS v01.96",
+        "published_at": "2025-07-22T00:00:00",
+        "details": {
+            "version": "01.96",
+            "required_firmware": "12.52",
+            "content_id": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA",
+            "pkg_file": "http://gs2.ww.prod.dl.playstation.net/gs2/ppkgo/prod/CUSA06122_00/123/f_49eaa3a127f804e796da5ee56636719dacf53ace77880e4bbff820f9ae28b930/f/UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0196-V0100.pkg",
+            "pkg_name": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0196-V0100.pkg",
+            "pkg_size": "215.4 MB",
+            "pkg_hash": "",
+            "patch_notes": "To make Roblox work better for you, we deliver updates regularly. These updates include bug fixes and improvements for speed and reliability."
+        }
+    },
+    {
+        "tag_name": "v01.95",
+        "name": "Roblox PS v01.95",
+        "published_at": "2025-07-15T00:00:00",
+        "details": {
+            "version": "01.95",
+            "required_firmware": "12.52",
+            "content_id": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA",
+            "pkg_file": "http://gs2.ww.prod.dl.playstation.net/gs2/ppkgo/prod/CUSA06122_00/122/f_df1b8c233b5941755c2c6086d72528523f71837b9073f0a45a096211fb1ac79d/f/UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0195-V0100.pkg",
+            "pkg_name": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0195-V0100.pkg",
+            "pkg_size": "215.9 MB",
+            "pkg_hash": "",
+            "patch_notes": "To make Roblox work better for you, we deliver updates regularly. These updates include bug fixes and improvements for speed and reliability."
+        }
+    },
+    {
+        "tag_name": "v01.94",
+        "name": "Roblox PS v01.94",
+        "published_at": "2025-07-09T00:00:00",
+        "details": {
+            "version": "01.94",
+            "required_firmware": "12.50",
+            "content_id": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA",
+            "pkg_file": "http://gs2.ww.prod.dl.playstation.net/gs2/ppkgo/prod/CUSA06122_00/121/f_97e1ee2ab65434eda018bf3619b22f3f1618d0e2f1280209435f98f7ebd28e03/f/UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0194-V0100.pkg",
+            "pkg_name": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0194-V0100.pkg",
+            "pkg_size": "217.9 MB",
+            "pkg_hash": "",
+            "patch_notes": "To make Roblox work better for you, we deliver updates regularly. These updates include bug fixes and improvements for speed and reliability."
+        }
+    },
+    {
+        "tag_name": "v01.93",
+        "name": "Roblox PS v01.93",
+        "published_at": "2025-06-26T00:00:00",
+        "details": {
+            "version": "01.93",
+            "required_firmware": "12.50",
+            "content_id": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA",
+            "pkg_file": "http://gs2.ww.prod.dl.playstation.net/gs2/ppkgo/prod/CUSA06122_00/119/f_6b6af91dc0c3c6665c92be4c629abe6b5a4281820f3d9e1a449ae4de1b943c82/f/UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0193-V0100.pkg",
+            "pkg_name": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0193-V0100.pkg",
+            "pkg_size": "220.6 MB",
+            "pkg_hash": "",
+            "patch_notes": "To make Roblox work better for you, we deliver updates regularly. These updates include bug fixes and improvements for speed and reliability."
+        }
+    },
+    {
+        "tag_name": "v01.90",
+        "name": "Roblox PS v01.90",
+        "published_at": "2025-06-19T00:00:00",
+        "details": {
+            "version": "01.90",
+            "required_firmware": "12.50",
+            "content_id": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA",
+            "pkg_file": "http://gs2.ww.prod.dl.playstation.net/gs2/ppkgo/prod/CUSA06122_00/114/f_9591e11471ef0958233e6089936f4600226c84ee6e936a1e6e18aa36aea9a95a/f/UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0190-V0100.pkg",
+            "pkg_name": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0190-V0100.pkg",
+            "pkg_size": "255.6 MB",
+            "pkg_hash": "",
+            "patch_notes": "To make Roblox work better for you, we deliver updates regularly. These updates include bug fixes and improvements for speed and reliability."
+        }
+    },
+    {
+        "tag_name": "v01.89",
+        "name": "Roblox PS v01.89",
+        "published_at": "2025-06-13T00:00:00",
+        "details": {
+            "version": "01.89",
+            "required_firmware": "12.50",
+            "content_id": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA",
+            "pkg_file": "http://gs2.ww.prod.dl.playstation.net/gs2/ppkgo/prod/CUSA06122_00/113/f_edeab1904489eb460ce56468597f367e98df2ba97309d22ac322fba685dd0711/f/UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0189-V0100.pkg",
+            "pkg_name": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0189-V0100.pkg",
+            "pkg_size": "265.1 MB",
+            "pkg_hash": "",
+            "patch_notes": "To make Roblox work better for you, we deliver updates regularly. These updates include bug fixes and improvements for speed and reliability."
+        }
+    },
+    {
+        "tag_name": "v01.88",
+        "name": "Roblox PS v01.88",
+        "published_at": "2025-06-12T00:00:00",
+        "details": {
+            "version": "01.88",
+            "required_firmware": "12.50",
+            "content_id": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA",
+            "pkg_file": "http://gs2.ww.prod.dl.playstation.net/gs2/ppkgo/prod/CUSA06122_00/112/f_0d362a5f9f1d9835bdb59ffb98b142fe6caef1b39ca9576f1ace8dffecd78864/f/UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0188-V0100.pkg",
+            "pkg_name": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0188-V0100.pkg",
+            "pkg_size": "265.7 MB",
+            "pkg_hash": "",
+            "patch_notes": "To make Roblox work better for you, we deliver updates regularly. These updates include bug fixes and improvements for speed and reliability."
+        }
+    },
+    {
+        "tag_name": "v01.86",
+        "name": "Roblox PS v01.86",
+        "published_at": "2025-06-05T00:00:00",
+        "details": {
+            "version": "01.86",
+            "required_firmware": "12.50",
+            "content_id": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA",
+            "pkg_file": "http://gs2.ww.prod.dl.playstation.net/gs2/ppkgo/prod/CUSA06122_00/110/f_dade383acbf2fdafdb756c1b045321186a52012fe3dfb7fc4d4d8bf3110ac042/f/UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0186-V0100.pkg",
+            "pkg_name": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0186-V0100.pkg",
+            "pkg_size": "265.7 MB",
+            "pkg_hash": "",
+            "patch_notes": "To make Roblox work better for you, we deliver updates regularly. These updates include bug fixes and improvements for speed and reliability."
+        }
+    },
+    {
+        "tag_name": "v01.84",
+        "name": "Roblox PS v01.84",
+        "published_at": "2025-05-28T00:00:00",
+        "details": {
+            "version": "01.84",
+            "required_firmware": "12.50",
+            "content_id": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA",
+            "pkg_file": "http://gs2.ww.prod.dl.playstation.net/gs2/ppkgo/prod/CUSA06122_00/108/f_98bcfed284631009b2764a13bfdaf7611d20d3fd1deaf2f0061ebc04b63887fe/f/UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0184-V0100.pkg",
+            "pkg_name": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0184-V0100.pkg",
+            "pkg_size": "265.2 MB",
+            "pkg_hash": "",
+            "patch_notes": "To make Roblox work better for you, we deliver updates regularly. These updates include bug fixes and improvements for speed and reliability."
+        }
+    },
+    {
+        "tag_name": "v01.83",
+        "name": "Roblox PS v01.83",
+        "published_at": "2025-05-21T00:00:00",
+        "details": {
+            "version": "01.83",
+            "required_firmware": "12.50",
+            "content_id": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA",
+            "pkg_file": "http://gs2.ww.prod.dl.playstation.net/gs2/ppkgo/prod/CUSA06122_00/106/f_44bdd5e7bc86c0e4f9aa530cc3b2f1415351447b3c64de51a3da90ef4f775755/f/UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0183-V0100.pkg",
+            "pkg_name": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0183-V0100.pkg",
+            "pkg_size": "263.3 MB",
+            "pkg_hash": "",
+            "patch_notes": "To make Roblox work better for you, we deliver updates regularly. These updates include bug fixes and improvements for speed and reliability."
+        }
+    },
+    {
+        "tag_name": "v01.82",
+        "name": "Roblox PS v01.82",
+        "published_at": "2025-05-15T00:00:00",
+        "details": {
+            "version": "01.82",
+            "required_firmware": "12.50",
+            "content_id": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA",
+            "pkg_file": "http://gs2.ww.prod.dl.playstation.net/gs2/ppkgo/prod/CUSA06122_00/105/f_af5fa7a84f77e01f8b7a96a342019967d9e8dfa8744122d3028bb4bf3f6feb6d/f/UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0182-V0100.pkg",
+            "pkg_name": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0182-V0100.pkg",
+            "pkg_size": "275.4 MB",
+            "pkg_hash": "",
+            "patch_notes": "To make Roblox work better for you, we deliver updates regularly. These updates include bug fixes and improvements for speed and reliability."
+        }
+    },
+    {
+        "tag_name": "v01.81",
+        "name": "Roblox PS v01.81",
+        "published_at": "2025-05-15T00:00:00",
+        "details": {
+            "version": "01.81",
+            "required_firmware": "12.50",
+            "content_id": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA",
+            "pkg_file": "http://gs2.ww.prod.dl.playstation.net/gs2/ppkgo/prod/CUSA06122_00/104/f_52757e2ed77c2cb0700ae7796699c8c0457ca0a51701ef449f0b6dc4afd8bb72/f/UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0181-V0100.pkg",
+            "pkg_name": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0181-V0100.pkg",
+            "pkg_size": "261.1 MB",
+            "pkg_hash": "",
+            "patch_notes": "To make Roblox work better for you, we deliver updates regularly. These updates include bug fixes and improvements for speed and reliability."
+        }
+    },
+    {
+        "tag_name": "v01.79",
+        "name": "Roblox PS v01.79",
+        "published_at": "2025-05-08T00:00:00",
+        "details": {
+            "version": "01.79",
+            "required_firmware": "12.50",
+            "content_id": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA",
+            "pkg_file": "http://gs2.ww.prod.dl.playstation.net/gs2/ppkgo/prod/CUSA06122_00/102/f_35a4191f6c1b3b8051a2fcdc3fc9503109fb63fdea972e1924a2dbfc9825b20c/f/UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0179-V0100.pkg",
+            "pkg_name": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0179-V0100.pkg",
+            "pkg_size": "261.1 MB",
+            "pkg_hash": "",
+            "patch_notes": "To make Roblox work better for you, we deliver updates regularly. These updates include bug fixes and improvements for speed and reliability."
+        }
+    },
+    {
+        "tag_name": "v01.77",
+        "name": "Roblox PS v01.77",
+        "published_at": "2025-04-22T00:00:00",
+        "details": {
+            "version": "01.77",
+            "required_firmware": "12.50",
+            "content_id": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA",
+            "pkg_file": "http://gs2.ww.prod.dl.playstation.net/gs2/ppkgo/prod/CUSA06122_00/99/f_336f32bf4af8e9c929ebd5abe5c1a09b476b38dcfea96d33d367fc32aa3477da/f/UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0177-V0100.pkg",
+            "pkg_name": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0177-V0100.pkg",
+            "pkg_size": "261.1 MB",
+            "pkg_hash": "",
+            "patch_notes": "To make Roblox work better for you, we deliver updates regularly. These updates include bug fixes and improvements for speed and reliability."
+        }
+    },
+    {
+        "tag_name": "v01.76",
+        "name": "Roblox PS v01.76",
+        "published_at": "2025-04-15T00:00:00",
+        "details": {
+            "version": "01.76",
+            "required_firmware": "12.50",
+            "content_id": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA",
+            "pkg_file": "http://gs2.ww.prod.dl.playstation.net/gs2/ppkgo/prod/CUSA06122_00/98/f_65e6109f2e3997e3cfe92b2bb5b2248d6c1b333fee226077d96a60853901df7c/f/UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0176-V0100.pkg",
+            "pkg_name": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0176-V0100.pkg",
+            "pkg_size": "260.2 MB",
+            "pkg_hash": "",
+            "patch_notes": "To make Roblox work better for you, we deliver updates regularly. These updates include bug fixes and improvements for speed and reliability."
+        }
+    },
+    {
+        "tag_name": "v01.75",
+        "name": "Roblox PS v01.75",
+        "published_at": "2025-04-08T00:00:00",
+        "details": {
+            "version": "01.75",
+            "required_firmware": "12.50",
+            "content_id": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA",
+            "pkg_file": "http://gs2.ww.prod.dl.playstation.net/gs2/ppkgo/prod/CUSA06122_00/97/f_fa43a5ca4692c03afa49695b8dd4955f69a7758d013ee984fceabe86c86278fe/f/UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0175-V0100.pkg",
+            "pkg_name": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0175-V0100.pkg",
+            "pkg_size": "258.7 MB",
+            "pkg_hash": "",
+            "patch_notes": "To make Roblox work better for you, we deliver updates regularly. These updates include bug fixes and improvements for speed and reliability."
+        }
+    },
+    {
+        "tag_name": "v01.74",
+        "name": "Roblox PS v01.74",
+        "published_at": "2025-04-04T00:00:00",
+        "details": {
+            "version": "01.74",
+            "required_firmware": "12.50",
+            "content_id": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA",
+            "pkg_file": "http://gs2.ww.prod.dl.playstation.net/gs2/ppkgo/prod/CUSA06122_00/96/f_92f4db44dc1be044c467600c09f4927af99770bc4db1124a05057ccc9073366d/f/UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0174-V0100.pkg",
+            "pkg_name": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0174-V0100.pkg",
+            "pkg_size": "258.5 MB",
+            "pkg_hash": "",
+            "patch_notes": "To make Roblox work better for you, we deliver updates regularly. These updates include bug fixes and improvements for speed and reliability."
+        }
+    },
+    {
+        "tag_name": "v01.72",
+        "name": "Roblox PS v01.72",
+        "published_at": "2025-03-26T00:00:00",
+        "details": {
+            "version": "01.72",
+            "required_firmware": "12.02",
+            "content_id": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA",
+            "pkg_file": "http://gs2.ww.prod.dl.playstation.net/gs2/ppkgo/prod/CUSA06122_00/93/f_ebea2b9cb56417c355eba82fd769d87a19b5694d91a33c0cd2836b077f4cf766/f/UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0172-V0100.pkg",
+            "pkg_name": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0172-V0100.pkg",
+            "pkg_size": "258.6 MB",
+            "pkg_hash": "",
+            "patch_notes": "To make Roblox work better for you, we deliver updates regularly. These updates include bug fixes and improvements for speed and reliability."
+        }
+    },
+    {
+        "tag_name": "v01.71",
+        "name": "Roblox PS v01.71",
+        "published_at": "2025-03-18T00:00:00",
+        "details": {
+            "version": "01.71",
+            "required_firmware": "12.02",
+            "content_id": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA",
+            "pkg_file": "http://gs2.ww.prod.dl.playstation.net/gs2/ppkgo/prod/CUSA06122_00/92/f_a960cf7663cbfbac1b2946159abfcec69f491c9f0e0b1c61e76b8f0c02cec8af/f/UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0171-V0100.pkg",
+            "pkg_name": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0171-V0100.pkg",
+            "pkg_size": "257.7 MB",
+            "pkg_hash": "",
+            "patch_notes": "To make Roblox work better for you, we deliver updates regularly. These updates include bug fixes and improvements for speed and reliability."
+        }
+    },
+    {
+        "tag_name": "v01.70",
+        "name": "Roblox PS v01.70",
+        "published_at": "2025-03-11T00:00:00",
+        "details": {
+            "version": "01.70",
+            "required_firmware": "12.02",
+            "content_id": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA",
+            "pkg_file": "http://gs2.ww.prod.dl.playstation.net/gs2/ppkgo/prod/CUSA06122_00/91/f_5b0cbe83b959c29261b3c4ad6ff6d4c5ca0beb768360dd75c74e8c0983f98e70/f/UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0170-V0100.pkg",
+            "pkg_name": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0170-V0100.pkg",
+            "pkg_size": "257.3 MB",
+            "pkg_hash": "",
+            "patch_notes": "To make Roblox work better for you, we deliver updates regularly. These updates include bug fixes and improvements for speed and reliability."
+        }
+    },
+    {
+        "tag_name": "v01.69",
+        "name": "Roblox PS v01.69",
+        "published_at": "2025-03-04T00:00:00",
+        "details": {
+            "version": "01.69",
+            "required_firmware": "12.02",
+            "content_id": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA",
+            "pkg_file": "http://gs2.ww.prod.dl.playstation.net/gs2/ppkgo/prod/CUSA06122_00/90/f_c0d9cea8edd5aace79cff3c8688cb16c592c780b8ded6e67d07887a02d05f62e/f/UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0169-V0100.pkg",
+            "pkg_name": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0169-V0100.pkg",
+            "pkg_size": "257.1 MB",
+            "pkg_hash": "",
+            "patch_notes": "To make Roblox work better for you, we deliver updates regularly. These updates include bug fixes and improvements for speed and reliability."
+        }
+    },
+    {
+        "tag_name": "v01.68",
+        "name": "Roblox PS v01.68",
+        "published_at": "2025-02-26T00:00:00",
+        "details": {
+            "version": "01.68",
+            "required_firmware": "12.02",
+            "content_id": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA",
+            "pkg_file": "http://gs2.ww.prod.dl.playstation.net/gs2/ppkgo/prod/CUSA06122_00/89/f_6a031cac1f0ba42c775a5984f9a1ce1a5eb145d99b1ea1850504297fa58ad54c/f/UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0168-V0100.pkg",
+            "pkg_name": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0168-V0100.pkg",
+            "pkg_size": "250.8 MB",
+            "pkg_hash": "",
+            "patch_notes": "To make Roblox work better for you, we deliver updates regularly. These updates include bug fixes and improvements for speed and reliability."
+        }
+    },
+    {
+        "tag_name": "v01.67",
+        "name": "Roblox PS v01.67",
+        "published_at": "2025-02-19T00:00:00",
+        "details": {
+            "version": "01.67",
+            "required_firmware": "12.02",
+            "content_id": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA",
+            "pkg_file": "http://gs2.ww.prod.dl.playstation.net/gs2/ppkgo/prod/CUSA06122_00/88/f_2ab4691481dadc2d3264b985b71f663490171fce8ea4f99d97c854b2a862863b/f/UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0167-V0100.pkg",
+            "pkg_name": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0167-V0100.pkg",
+            "pkg_size": "249.9 MB",
+            "pkg_hash": "",
+            "patch_notes": "To make Roblox work better for you, we deliver updates regularly. These updates include bug fixes and improvements for speed and reliability."
+        }
+    },
+    {
+        "tag_name": "v01.66",
+        "name": "Roblox PS v01.66",
+        "published_at": "2025-02-11T00:00:00",
+        "details": {
+            "version": "01.66",
+            "required_firmware": "12.02",
+            "content_id": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA",
+            "pkg_file": "http://gs2.ww.prod.dl.playstation.net/gs2/ppkgo/prod/CUSA06122_00/87/f_ae2afa682f561a0c66bd89bd45ad1b95cedf0932cba1ec61d3fa1db03f0c4705/f/UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0166-V0100.pkg",
+            "pkg_name": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0166-V0100.pkg",
+            "pkg_size": "255 MB",
+            "pkg_hash": "",
+            "patch_notes": "To make Roblox work better for you, we deliver updates regularly. These updates include bug fixes and improvements for speed and reliability."
+        }
+    },
+    {
+        "tag_name": "v01.65",
+        "name": "Roblox PS v01.65",
+        "published_at": "2025-02-04T00:00:00",
+        "details": {
+            "version": "01.65",
+            "required_firmware": "12.00",
+            "content_id": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA",
+            "pkg_file": "http://gs2.ww.prod.dl.playstation.net/gs2/ppkgo/prod/CUSA06122_00/86/f_1d5b059f8105455ec69e8e04f51d768f918d5927726b3f1180cf877e521bffff/f/UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0165-V0100.pkg",
+            "pkg_name": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0165-V0100.pkg",
+            "pkg_size": "239 MB",
+            "pkg_hash": "",
+            "patch_notes": "To make Roblox work better for you, we deliver updates regularly. These updates include bug fixes and improvements for speed and reliability."
+        }
+    },
+    {
+        "tag_name": "v01.64",
+        "name": "Roblox PS v01.64",
+        "published_at": "2025-01-21T00:00:00",
+        "details": {
+            "version": "01.64",
+            "required_firmware": "12.00",
+            "content_id": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA",
+            "pkg_file": "http://gs2.ww.prod.dl.playstation.net/gs2/ppkgo/prod/CUSA06122_00/83/f_010610ca80f7adb2c49c219653918d4192bf8654bb32c1b1528c526ddeba4d09/f/UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0164-V0100.pkg",
+            "pkg_name": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0164-V0100.pkg",
+            "pkg_size": "232.6 MB",
+            "pkg_hash": "",
+            "patch_notes": "To make Roblox work better for you, we deliver updates regularly. These updates include bug fixes and improvements for speed and reliability."
+        }
+    },
+    {
+        "tag_name": "v01.63",
+        "name": "Roblox PS v01.63",
+        "published_at": "2025-01-15T00:00:00",
+        "details": {
+            "version": "01.63",
+            "required_firmware": "12.00",
+            "content_id": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA",
+            "pkg_file": "http://gs2.ww.prod.dl.playstation.net/gs2/ppkgo/prod/CUSA06122_00/82/f_ea2996b0b734f4ac83f8acfd9fd84476f3478f74f1430c659cd4a94ee674eea5/f/UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0163-V0100.pkg",
+            "pkg_name": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0163-V0100.pkg",
+            "pkg_size": "232.1 MB",
+            "pkg_hash": "",
+            "patch_notes": "To make Roblox work better for you, we deliver updates regularly. These updates include bug fixes and improvements for speed and reliability."
+        }
+    },
+    {
+        "tag_name": "v01.62",
+        "name": "Roblox PS v01.62",
+        "published_at": "2025-01-07T00:00:00",
+        "details": {
+            "version": "01.62",
+            "required_firmware": "12.00",
+            "content_id": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA",
+            "pkg_file": "http://gs2.ww.prod.dl.playstation.net/gs2/ppkgo/prod/CUSA06122_00/81/f_d4de7c5a5818dd45bcd4d78aa48e98423cb76060b5fc6d51512e4250a12058df/f/UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0162-V0100.pkg",
+            "pkg_name": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0162-V0100.pkg",
+            "pkg_size": "232.3 MB",
+            "pkg_hash": "",
+            "patch_notes": "To make Roblox work better for you, we deliver updates regularly. These updates include bug fixes and improvements for speed and reliability."
+        }
+    },
+    {
+        "tag_name": "v01.61",
+        "name": "Roblox PS v01.61",
+        "published_at": "2024-12-08T00:00:00",
+        "details": {
+            "version": "01.61",
+            "required_firmware": "12.00",
+            "content_id": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA",
+            "pkg_file": "http://gs2.ww.prod.dl.playstation.net/gs2/ppkgo/prod/CUSA06122_00/80/f_17489e0e0289a4caf6d8fbf2369129423a6a827204279433ea864d95a57cf7fe/f/UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0161-V0100.pkg",
+            "pkg_name": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0161-V0100.pkg",
+            "pkg_size": "232.2 MB",
+            "pkg_hash": "",
+            "patch_notes": "To make Roblox work better for you, we deliver updates regularly. These updates include bug fixes and improvements for speed and reliability."
+        }
+    },
+    {
+        "tag_name": "v01.60",
+        "name": "Roblox PS v01.60",
+        "published_at": "2024-12-05T00:00:00",
+        "details": {
+            "version": "01.60",
+            "required_firmware": "12.00",
+            "content_id": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA",
+            "pkg_file": "http://gs2.ww.prod.dl.playstation.net/gs2/ppkgo/prod/CUSA06122_00/79/f_fbfb6d63cbc9f6ccb4061922a0f4e4f0bd6076fcfcc106feaa816e9c4fd9ccd9/f/UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0160-V0100.pkg",
+            "pkg_name": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0160-V0100.pkg",
+            "pkg_size": "231.4 MB",
+            "pkg_hash": "",
+            "patch_notes": "To make Roblox work better for you, we deliver updates regularly. These updates include bug fixes and improvements for speed and reliability."
+        }
+    },
+    {
+        "tag_name": "v01.59",
+        "name": "Roblox PS v01.59",
+        "published_at": "2024-11-20T00:00:00",
+        "details": {
+            "version": "01.59",
+            "required_firmware": "12.00",
+            "content_id": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA",
+            "pkg_file": "http://gs2.ww.prod.dl.playstation.net/gs2/ppkgo/prod/CUSA06122_00/78/f_826eb8e4fc032f848d17cd157215683baf25996eebe5c5e6a425d4fdd69adfd4/f/UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0159-V0100.pkg",
+            "pkg_name": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0159-V0100.pkg",
+            "pkg_size": "236.9 MB",
+            "pkg_hash": "",
+            "patch_notes": "To make Roblox work better for you, we deliver updates regularly. These updates include bug fixes and improvements for speed and reliability."
+        }
+    },
+    {
+        "tag_name": "v01.58",
+        "name": "Roblox PS v01.58",
+        "published_at": "2024-11-14T00:00:00",
+        "details": {
+            "version": "01.58",
+            "required_firmware": "12.00",
+            "content_id": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA",
+            "pkg_file": "http://gs2.ww.prod.dl.playstation.net/gs2/ppkgo/prod/CUSA06122_00/77/f_21c886fefc7e8a0ceb10498ab40fa799e5d398384cc59116b0252b45cd0b83df/f/UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0158-V0100.pkg",
+            "pkg_name": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0158-V0100.pkg",
+            "pkg_size": "235.3 MB",
+            "pkg_hash": "",
+            "patch_notes": "To make Roblox work better for you, we deliver updates regularly. These updates include bug fixes and improvements for speed and reliability."
+        }
+    },
+    {
+        "tag_name": "v01.56",
+        "name": "Roblox PS v01.56",
+        "published_at": "2024-11-06T00:00:00",
+        "details": {
+            "version": "01.56",
+            "required_firmware": "12.00",
+            "content_id": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA",
+            "pkg_file": "http://gs2.ww.prod.dl.playstation.net/gs2/ppkgo/prod/CUSA06122_00/74/f_abb7cf4627c0ec2e15cdc5381f7b0f5a4616630f9257697d5e5972a5c56cec20/f/UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0156-V0100.pkg",
+            "pkg_name": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0156-V0100.pkg",
+            "pkg_size": "226.7 MB",
+            "pkg_hash": "",
+            "patch_notes": "To make Roblox work better for you, we deliver updates regularly. These updates include bug fixes and improvements for speed and reliability."
+        }
+    },
+    {
+        "tag_name": "v01.55",
+        "name": "Roblox PS v01.55",
+        "published_at": "2024-10-30T00:00:00",
+        "details": {
+            "version": "01.55",
+            "required_firmware": "12.00",
+            "content_id": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA",
+            "pkg_file": "http://gs2.ww.prod.dl.playstation.net/gs2/ppkgo/prod/CUSA06122_00/73/f_dd1ca3db1d1bcfd2aafaea9688f7dd89b52014e48a7f87bb91d78d23dfe56b90/f/UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0155-V0100.pkg",
+            "pkg_name": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0155-V0100.pkg",
+            "pkg_size": "225.8 MB",
+            "pkg_hash": "",
+            "patch_notes": "To make Roblox work better for you, we deliver updates regularly. These updates include bug fixes and improvements for speed and reliability."
+        }
+    },
+    {
+        "tag_name": "v01.54",
+        "name": "Roblox PS v01.54",
+        "published_at": "2024-10-22T00:00:00",
+        "details": {
+            "version": "01.54",
+            "required_firmware": "12.00",
+            "content_id": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA",
+            "pkg_file": "http://gs2.ww.prod.dl.playstation.net/gs2/ppkgo/prod/CUSA06122_00/72/f_c3fd8d5b2449b5784ad40dfa2c9335ada193f6deb364fa1f552d1bedbabd0801/f/UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0154-V0100.pkg",
+            "pkg_name": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0154-V0100.pkg",
+            "pkg_size": "227.4 MB",
+            "pkg_hash": "",
+            "patch_notes": "To make Roblox work better for you, we deliver updates regularly. These updates include bug fixes and improvements for speed and reliability."
+        }
+    },
+    {
+        "tag_name": "v01.53",
+        "name": "Roblox PS v01.53",
+        "published_at": "2024-10-15T00:00:00",
+        "details": {
+            "version": "01.53",
+            "required_firmware": "12.00",
+            "content_id": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA",
+            "pkg_file": "http://gs2.ww.prod.dl.playstation.net/gs2/ppkgo/prod/CUSA06122_00/71/f_9b66740bf9a2c8dd96fea4b466d1ec4c8139bdc894607cae8f4a575d2aa1687d/f/UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0153-V0100.pkg",
+            "pkg_name": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0153-V0100.pkg",
+            "pkg_size": "226.9 MB",
+            "pkg_hash": "",
+            "patch_notes": "To make Roblox work better for you, we deliver updates regularly. These updates include bug fixes and improvements for speed and reliability."
+        }
+    },
+    {
+        "tag_name": "v01.52",
+        "name": "Roblox PS v01.52",
+        "published_at": "2024-10-09T00:00:00",
+        "details": {
+            "version": "01.52",
+            "required_firmware": "12.00",
+            "content_id": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA",
+            "pkg_file": "http://gs2.ww.prod.dl.playstation.net/gs2/ppkgo/prod/CUSA06122_00/70/f_be64294b225922aca1ae1688623740c9cfb712bfa2b77036b9374159c43cd91b/f/UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0152-V0100.pkg",
+            "pkg_name": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0152-V0100.pkg",
+            "pkg_size": "224 MB",
+            "pkg_hash": "",
+            "patch_notes": "To make Roblox work better for you, we deliver updates regularly. These updates include bug fixes and improvements for speed and reliability."
+        }
+    },
+    {
+        "tag_name": "v01.51",
+        "name": "Roblox PS v01.51",
+        "published_at": "2024-10-01T00:00:00",
+        "details": {
+            "version": "01.51",
+            "required_firmware": "12.00",
+            "content_id": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA",
+            "pkg_file": "http://gs2.ww.prod.dl.playstation.net/gs2/ppkgo/prod/CUSA06122_00/69/f_157df93ad10bd50744ca6edd4c25adcdbe21d1759635a917dbe6977c7045498a/f/UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0151-V0100.pkg",
+            "pkg_name": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0151-V0100.pkg",
+            "pkg_size": "223.6 MB",
+            "pkg_hash": "",
+            "patch_notes": "To make Roblox work better for you, we deliver updates regularly. These updates include bug fixes and improvements for speed and reliability."
+        }
+    },
+    {
+        "tag_name": "v01.50",
+        "name": "Roblox PS v01.50",
+        "published_at": "2024-09-24T00:00:00",
+        "details": {
+            "version": "01.50",
+            "required_firmware": "12.00",
+            "content_id": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA",
+            "pkg_file": "http://gs2.ww.prod.dl.playstation.net/gs2/ppkgo/prod/CUSA06122_00/68/f_740224d05576765100ba249a9f36d2f27d6be6ea11ad86a500fd7b2d707e80a6/f/UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0150-V0100.pkg",
+            "pkg_name": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0150-V0100.pkg",
+            "pkg_size": "223.7 MB",
+            "pkg_hash": "",
+            "patch_notes": "To make Roblox work better for you, we deliver updates regularly. These updates include bug fixes and improvements for speed and reliability."
+        }
+    },
+    {
+        "tag_name": "v01.49",
+        "name": "Roblox PS v01.49",
+        "published_at": "2024-09-10T00:00:00",
+        "details": {
+            "version": "01.49",
+            "required_firmware": "11.52",
+            "content_id": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA",
+            "pkg_file": "http://gs2.ww.prod.dl.playstation.net/gs2/ppkgo/prod/CUSA06122_00/66/f_572775dd2fe9f311dc37f516e378c24ab9d75480561a4779fb0ff6b2c53255a4/f/UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0149-V0100.pkg",
+            "pkg_name": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0149-V0100.pkg",
+            "pkg_size": "221.4 MB",
+            "pkg_hash": "",
+            "patch_notes": "To make Roblox work better for you, we deliver updates regularly. These updates include bug fixes and improvements for speed and reliability."
+        }
+    },
+    {
+        "tag_name": "v01.48",
+        "name": "Roblox PS v01.48",
+        "published_at": "2024-08-27T00:00:00",
+        "details": {
+            "version": "01.48",
+            "required_firmware": "11.52",
+            "content_id": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA",
+            "pkg_file": "http://gs2.ww.prod.dl.playstation.net/gs2/ppkgo/prod/CUSA06122_00/64/f_c921880d32a4f0b6f382829a3955960bfd6482f1702c1a985d8b949fb693ab33/f/UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0148-V0100.pkg",
+            "pkg_name": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0148-V0100.pkg",
+            "pkg_size": "220.4 MB",
+            "pkg_hash": "",
+            "patch_notes": "To make Roblox work better for you, we deliver updates regularly. These updates include bug fixes and improvements for speed and reliability."
+        }
+    },
+    {
+        "tag_name": "v01.47",
+        "name": "Roblox PS v01.47",
+        "published_at": "2024-08-20T00:00:00",
+        "details": {
+            "version": "01.47",
+            "required_firmware": "11.52",
+            "content_id": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA",
+            "pkg_file": "http://gs2.ww.prod.dl.playstation.net/gs2/ppkgo/prod/CUSA06122_00/63/f_b7a0d6ecbe932a57524125e18305f6e5ebbfc87694cc48c53f3d7da24080878d/f/UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0147-V0100.pkg",
+            "pkg_name": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0147-V0100.pkg",
+            "pkg_size": "220.6 MB",
+            "pkg_hash": "",
+            "patch_notes": "To make Roblox work better for you, we deliver updates regularly. These updates include bug fixes and improvements for speed and reliability."
+        }
+    },
+    {
+        "tag_name": "v01.45",
+        "name": "Roblox PS v01.45",
+        "published_at": "2024-08-07T00:00:00",
+        "details": {
+            "version": "01.45",
+            "required_firmware": "11.52",
+            "content_id": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA",
+            "pkg_file": "http://gs2.ww.prod.dl.playstation.net/gs2/ppkgo/prod/CUSA06122_00/61/f_9a1aaad1458170dc367a6e7bf59b4d92c4af4e4ee75362dbb471d97cbe96898a/f/UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0145-V0100.pkg",
+            "pkg_name": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0145-V0100.pkg",
+            "pkg_size": "217.5 MB",
+            "pkg_hash": "",
+            "patch_notes": "To make Roblox work better for you, we deliver updates regularly. These updates include bug fixes and improvements for speed and reliability."
+        }
+    },
+    {
+        "tag_name": "v01.44",
+        "name": "Roblox PS v01.44",
+        "published_at": "2024-08-01T00:00:00",
+        "details": {
+            "version": "01.44",
+            "required_firmware": "11.52",
+            "content_id": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA",
+            "pkg_file": "http://gs2.ww.prod.dl.playstation.net/gs2/ppkgo/prod/CUSA06122_00/60/f_919c4b8737b6fdae842bcfc0da50ff8e5deb8f494e29d4369dad098931201efb/f/UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0144-V0100.pkg",
+            "pkg_name": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0144-V0100.pkg",
+            "pkg_size": "216.3 MB",
+            "pkg_hash": "",
+            "patch_notes": "To make Roblox work better for you, we deliver updates regularly. These updates include bug fixes and improvements for speed and reliability."
+        }
+    },
+    {
+        "tag_name": "v01.42",
+        "name": "Roblox PS v01.42",
+        "published_at": "2024-07-24T00:00:00",
+        "details": {
+            "version": "01.42",
+            "required_firmware": "11.52",
+            "content_id": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA",
+            "pkg_file": "http://gs2.ww.prod.dl.playstation.net/gs2/ppkgo/prod/CUSA06122_00/58/f_ff00295dca151214218c4aae29ca346d718c3fb457ac4a7c670c0357beee0ef2/f/UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0142-V0100.pkg",
+            "pkg_name": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0142-V0100.pkg",
+            "pkg_size": "215.9 MB",
+            "pkg_hash": "",
+            "patch_notes": "To make Roblox work better for you, we deliver updates regularly. These updates include bug fixes and improvements for speed and reliability."
+        }
+    },
+    {
+        "tag_name": "v01.41",
+        "name": "Roblox PS v01.41",
+        "published_at": "2024-07-16T00:00:00",
+        "details": {
+            "version": "01.41",
+            "required_firmware": "11.50",
+            "content_id": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA",
+            "pkg_file": "http://gs2.ww.prod.dl.playstation.net/gs2/ppkgo/prod/CUSA06122_00/57/f_3d1e63c5992355b3805074477bc576c6c00479792371f5c62eae011d1eacf7db/f/UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0141-V0100.pkg",
+            "pkg_name": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0141-V0100.pkg",
+            "pkg_size": "213.6 MB",
+            "pkg_hash": "",
+            "patch_notes": "To make Roblox work better for you, we deliver updates regularly. These updates include bug fixes and improvements for speed and reliability."
+        }
+    },
+    {
+        "tag_name": "v01.40",
+        "name": "Roblox PS v01.40",
+        "published_at": "2024-07-10T00:00:00",
+        "details": {
+            "version": "01.40",
+            "required_firmware": "11.50",
+            "content_id": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA",
+            "pkg_file": "http://gs2.ww.prod.dl.playstation.net/gs2/ppkgo/prod/CUSA06122_00/56/f_3fb09d334e7b7da88e120f6ce1f545aad1c7d7fe948f4395828f74fa2a22dccf/f/UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0140-V0100.pkg",
+            "pkg_name": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0140-V0100.pkg",
+            "pkg_size": "213.9 MB",
+            "pkg_hash": "",
+            "patch_notes": "To make Roblox work better for you, we deliver updates regularly. These updates include bug fixes and improvements for speed and reliability."
+        }
+    },
+    {
+        "tag_name": "v01.39",
+        "name": "Roblox PS v01.39",
+        "published_at": "2024-06-25T00:00:00",
+        "details": {
+            "version": "01.39",
+            "required_firmware": "11.50",
+            "content_id": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA",
+            "pkg_file": "http://gs2.ww.prod.dl.playstation.net/gs2/ppkgo/prod/CUSA06122_00/54/f_c63a74d072bfbed98f2a60d709aab651d039e75dccb804dbad3e452275cf0505/f/UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0139-V0100.pkg",
+            "pkg_name": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0139-V0100.pkg",
+            "pkg_size": "213.1 MB",
+            "pkg_hash": "",
+            "patch_notes": "To make Roblox work better for you, we deliver updates regularly. These updates include bug fixes and improvements for speed and reliability."
+        }
+    },
+    {
+        "tag_name": "v01.37",
+        "name": "Roblox PS v01.37",
+        "published_at": "2024-06-11T00:00:00",
+        "details": {
+            "version": "01.37",
+            "required_firmware": "11.50",
+            "content_id": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA",
+            "pkg_file": "http://gs2.ww.prod.dl.playstation.net/gs2/ppkgo/prod/CUSA06122_00/52/f_c63254c838dfd4a0fdfb7d7df2dc49195aecfaa695d43b71449ef49b3a3a791b/f/UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0137-V0100.pkg",
+            "pkg_name": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0137-V0100.pkg",
+            "pkg_size": "212.2 MB",
+            "pkg_hash": "",
+            "patch_notes": "To make Roblox work better for you, we deliver updates regularly. These updates include bug fixes and improvements for speed and reliability."
+        }
+    },
+    {
+        "tag_name": "v01.36",
+        "name": "Roblox PS v01.36",
+        "published_at": "2024-06-04T00:00:00",
+        "details": {
+            "version": "01.36",
+            "required_firmware": "11.50",
+            "content_id": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA",
+            "pkg_file": "http://gs2.ww.prod.dl.playstation.net/gs2/ppkgo/prod/CUSA06122_00/51/f_29085c0812700f45e1bcdc3074b565043e2203a85253294f5fccb517388864ce/f/UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0136-V0100.pkg",
+            "pkg_name": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0136-V0100.pkg",
+            "pkg_size": "211.4 MB",
+            "pkg_hash": "",
+            "patch_notes": "To make Roblox work better for you, we deliver updates regularly. These updates include bug fixes and improvements for speed and reliability."
+        }
+    },
+    {
+        "tag_name": "v01.35",
+        "name": "Roblox PS v01.35",
+        "published_at": "2024-05-22T00:00:00",
+        "details": {
+            "version": "01.35",
+            "required_firmware": "11.50",
+            "content_id": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA",
+            "pkg_file": "http://gs2.ww.prod.dl.playstation.net/gs2/ppkgo/prod/CUSA06122_00/50/f_b1f8b10ddde2028eba3ab0dfbc59d56d2e5b9592950eecd705d69c12744ecf8f/f/UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0135-V0100.pkg",
+            "pkg_name": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0135-V0100.pkg",
+            "pkg_size": "209.7 MB",
+            "pkg_hash": "",
+            "patch_notes": "To make Roblox work better for you, we deliver updates regularly. These updates include bug fixes and improvements for speed and reliability."
+        }
+    },
+    {
+        "tag_name": "v01.34",
+        "name": "Roblox PS v01.34",
+        "published_at": "2024-05-15T00:00:00",
+        "details": {
+            "version": "01.34",
+            "required_firmware": "11.50",
+            "content_id": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA",
+            "pkg_file": "http://gs2.ww.prod.dl.playstation.net/gs2/ppkgo/prod/CUSA06122_00/48/f_cf075fd32a02d03e1462e41c2a0ba9d34536be7e2d53161ed508ea018ee74a50/f/UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0134-V0100.pkg",
+            "pkg_name": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0134-V0100.pkg",
+            "pkg_size": "209.1 MB",
+            "pkg_hash": "",
+            "patch_notes": "To make Roblox work better for you, we deliver updates regularly. These updates include bug fixes and improvements for speed and reliability."
+        }
+    },
+    {
+        "tag_name": "v01.33",
+        "name": "Roblox PS v01.33",
+        "published_at": "2024-05-07T00:00:00",
+        "details": {
+            "version": "01.33",
+            "required_firmware": "11.50",
+            "content_id": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA",
+            "pkg_file": "http://gs2.ww.prod.dl.playstation.net/gs2/ppkgo/prod/CUSA06122_00/47/f_8680fe69a8aa33d83a4d5302ede8215a78dbca620a4e7a569f2762186edd311d/f/UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0133-V0100.pkg",
+            "pkg_name": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0133-V0100.pkg",
+            "pkg_size": "256.6 MB",
+            "pkg_hash": "",
+            "patch_notes": "To make Roblox work better for you, we deliver updates regularly. These updates include bug fixes and improvements for speed and reliability."
+        }
+    },
+    {
+        "tag_name": "v01.32",
+        "name": "Roblox PS v01.32",
+        "published_at": "2024-04-30T00:00:00",
+        "details": {
+            "version": "01.32",
+            "required_firmware": "11.50",
+            "content_id": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA",
+            "pkg_file": "http://gs2.ww.prod.dl.playstation.net/gs2/ppkgo/prod/CUSA06122_00/46/f_fd668245c0d6d6e003b80c166b33c62d2fb4ae826bdf56bc03881f1f1a34af98/f/UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0132-V0100.pkg",
+            "pkg_name": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0132-V0100.pkg",
+            "pkg_size": "256.1 MB",
+            "pkg_hash": "",
+            "patch_notes": "To make Roblox work better for you, we deliver updates regularly. These updates include bug fixes and improvements for speed and reliability."
+        }
+    },
+    {
+        "tag_name": "v01.31",
+        "name": "Roblox PS v01.31",
+        "published_at": "2024-04-23T00:00:00",
+        "details": {
+            "version": "01.31",
+            "required_firmware": "11.50",
+            "content_id": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA",
+            "pkg_file": "http://gs2.ww.prod.dl.playstation.net/gs2/ppkgo/prod/CUSA06122_00/45/f_e4cebdb22205e52672a389bbe23e00835b955426768598daecf5fcbd03a3ef1a/f/UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0131-V0100.pkg",
+            "pkg_name": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0131-V0100.pkg",
+            "pkg_size": "251.5 MB",
+            "pkg_hash": "",
+            "patch_notes": "To make Roblox work better for you, we deliver updates regularly. These updates include bug fixes and improvements for speed and reliability."
+        }
+    },
+    {
+        "tag_name": "v01.30",
+        "name": "Roblox PS v01.30",
+        "published_at": "2024-04-18T00:00:00",
+        "details": {
+            "version": "01.30",
+            "required_firmware": "11.50",
+            "content_id": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA",
+            "pkg_file": "http://gs2.ww.prod.dl.playstation.net/gs2/ppkgo/prod/CUSA06122_00/44/f_15d9bc171834f750c0bfb77cdc46b59aa8285bb6952b6e07930aeb81fec61a8c/f/UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0130-V0100.pkg",
+            "pkg_name": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0130-V0100.pkg",
+            "pkg_size": "249.9 MB",
+            "pkg_hash": "",
+            "patch_notes": "To make Roblox work better for you, we deliver updates regularly. These updates include bug fixes and improvements for speed and reliability."
+        }
+    },
+    {
+        "tag_name": "v01.29",
+        "name": "Roblox PS v01.29",
+        "published_at": "2024-04-09T00:00:00",
+        "details": {
+            "version": "01.29",
+            "required_firmware": "11.50",
+            "content_id": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA",
+            "pkg_file": "http://gs2.ww.prod.dl.playstation.net/gs2/ppkgo/prod/CUSA06122_00/43/f_dacd100fa54e8c798303b95c85c534a5276da7194bc6bd0ff066ad60216535dc/f/UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0129-V0100.pkg",
+            "pkg_name": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0129-V0100.pkg",
+            "pkg_size": "249.3 MB",
+            "pkg_hash": "",
+            "patch_notes": "To make Roblox work better for you, we deliver updates regularly. These updates include bug fixes and improvements for speed and reliability."
+        }
+    },
+    {
+        "tag_name": "v01.27",
+        "name": "Roblox PS v01.27",
+        "published_at": "2024-03-25T00:00:00",
+        "details": {
+            "version": "01.27",
+            "required_firmware": "11.50",
+            "content_id": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA",
+            "pkg_file": "http://gs2.ww.prod.dl.playstation.net/gs2/ppkgo/prod/CUSA06122_00/41/f_5d42081a54916e4fd76b5cb061b1837ace2d8905075eb2fe11669fb59be3b49a/f/UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0127-V0100.pkg",
+            "pkg_name": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0127-V0100.pkg",
+            "pkg_size": "244.2 MB",
+            "pkg_hash": "",
+            "patch_notes": "To make Roblox work better for you, we deliver updates regularly. These updates include bug fixes and improvements for speed and reliability."
+        }
+    },
+    {
+        "tag_name": "v01.26",
+        "name": "Roblox PS v01.26",
+        "published_at": "2024-03-18T00:00:00",
+        "details": {
+            "version": "01.26",
+            "required_firmware": "11.02",
+            "content_id": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA",
+            "pkg_file": "http://gs2.ww.prod.dl.playstation.net/gs2/ppkgo/prod/CUSA06122_00/39/f_94928fe859ca66b8a0cef89c6ef0353c97cbab5ccdbcb6a58d573e1d9dcaae44/f/UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0126-V0100.pkg",
+            "pkg_name": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0126-V0100.pkg",
+            "pkg_size": "243.6 MB",
+            "pkg_hash": "",
+            "patch_notes": "To make Roblox work better for you, we deliver updates regularly. These updates include bug fixes and improvements for speed and reliability."
+        }
+    },
+    {
+        "tag_name": "v01.25",
+        "name": "Roblox PS v01.25",
+        "published_at": "2024-03-08T00:00:00",
+        "details": {
+            "version": "01.25",
+            "required_firmware": "11.02",
+            "content_id": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA",
+            "pkg_file": "http://gs2.ww.prod.dl.playstation.net/gs2/ppkgo/prod/CUSA06122_00/38/f_f2ff13de027b57144e980fafb06b96f1ce0f16d0a382136015deb2b6acfb80d4/f/UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0125-V0100.pkg",
+            "pkg_name": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0125-V0100.pkg",
+            "pkg_size": "243.1 MB",
+            "pkg_hash": "",
+            "patch_notes": "To make Roblox work better for you, we deliver updates regularly. These updates include bug fixes and improvements for speed and reliability."
+        }
+    },
+    {
+        "tag_name": "v01.24",
+        "name": "Roblox PS v01.24",
+        "published_at": "2024-03-05T00:00:00",
+        "details": {
+            "version": "01.24",
+            "required_firmware": "11.02",
+            "content_id": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA",
+            "pkg_file": "http://gs2.ww.prod.dl.playstation.net/gs2/ppkgo/prod/CUSA06122_00/37/f_568029b3febc6015eef5b55bd635591235f9c01c20ffd34915303bd5fd655103/f/UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0124-V0100.pkg",
+            "pkg_name": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0124-V0100.pkg",
+            "pkg_size": "243.1 MB",
+            "pkg_hash": "",
+            "patch_notes": "To make Roblox work better for you, we deliver updates regularly. These updates include bug fixes and improvements for speed and reliability."
+        }
+    },
+    {
+        "tag_name": "v01.23",
+        "name": "Roblox PS v01.23",
+        "published_at": "2024-02-27T00:00:00",
+        "details": {
+            "version": "01.23",
+            "required_firmware": "11.02",
+            "content_id": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA",
+            "pkg_file": "http://gs2.ww.prod.dl.playstation.net/gs2/ppkgo/prod/CUSA06122_00/35/f_a8c2b8f66fb5f446c476b13a2ed6529e6af5ec20e87704061b4e8f2b3955a922/f/UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0123-V0100.pkg",
+            "pkg_name": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0123-V0100.pkg",
+            "pkg_size": "241.8 MB",
+            "pkg_hash": "",
+            "patch_notes": "To make Roblox work better for you, we deliver updates regularly. These updates include bug fixes and improvements for speed and reliability."
+        }
+    },
+    {
+        "tag_name": "v01.21",
+        "name": "Roblox PS v01.21",
+        "published_at": "2024-02-12T00:00:00",
+        "details": {
+            "version": "01.21",
+            "required_firmware": "11.02",
+            "content_id": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA",
+            "pkg_file": "http://gs2.ww.prod.dl.playstation.net/gs2/ppkgo/prod/CUSA06122_00/30/f_0d111feb676e6a14f749e3325042888247f618c62f3b84e6a6bcef9424819701/f/UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0121-V0100.pkg",
+            "pkg_name": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0121-V0100.pkg",
+            "pkg_size": "242 MB",
+            "pkg_hash": "",
+            "patch_notes": "To make Roblox work better for you, we deliver updates regularly. These updates include bug fixes and improvements for speed and reliability."
+        }
+    },
+    {
+        "tag_name": "v01.20",
+        "name": "Roblox PS v01.20",
+        "published_at": "2024-02-05T00:00:00",
+        "details": {
+            "version": "01.20",
+            "required_firmware": "11.02",
+            "content_id": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA",
+            "pkg_file": "http://gs2.ww.prod.dl.playstation.net/gs2/ppkgo/prod/CUSA06122_00/27/f_130548da7563bd37f696bd9345902b6637ae4578bdf33ac6f2f1bd24230aacd6/f/UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0120-V0100.pkg",
+            "pkg_name": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0120-V0100.pkg",
+            "pkg_size": "242.4 MB",
+            "pkg_hash": "",
+            "patch_notes": "To make Roblox work better for you, we deliver updates regularly. These updates include bug fixes and improvements for speed and reliability."
+        }
+    },
+    {
+        "tag_name": "v01.19",
+        "name": "Roblox PS v01.19",
+        "published_at": "2024-01-30T00:00:00",
+        "details": {
+            "version": "01.19",
+            "required_firmware": "11.02",
+            "content_id": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA",
+            "pkg_file": "http://gs2.ww.prod.dl.playstation.net/gs2/ppkgo/prod/CUSA06122_00/26/f_e0484a10e54fd605e7574893aea39ea4b5baf826a10fd87dd19bcfc8452f375f/f/UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0119-V0100.pkg",
+            "pkg_name": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0119-V0100.pkg",
+            "pkg_size": "242.1 MB",
+            "pkg_hash": "",
+            "patch_notes": "To make Roblox work better for you, we deliver updates regularly. These updates include bug fixes and improvements for speed and reliability."
+        }
+    },
+    {
+        "tag_name": "v01.18",
+        "name": "Roblox PS v01.18",
+        "published_at": "2024-01-24T00:00:00",
+        "details": {
+            "version": "01.18",
+            "required_firmware": "11.02",
+            "content_id": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA",
+            "pkg_file": "http://gs2.ww.prod.dl.playstation.net/gs2/ppkgo/prod/CUSA06122_00/25/f_c523725b6ba881ca58cedb1ca83369ea2c9c210b0786b6d9b85a704dab0c04d1/f/UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0118-V0100.pkg",
+            "pkg_name": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0118-V0100.pkg",
+            "pkg_size": "240.8 MB",
+            "pkg_hash": "",
+            "patch_notes": "To make Roblox work better for you, we deliver updates regularly. These updates include bug fixes and improvements for speed and reliability."
+        }
+    },
+    {
+        "tag_name": "v01.17",
+        "name": "Roblox PS v01.17",
+        "published_at": "2024-01-18T00:00:00",
+        "details": {
+            "version": "01.17",
+            "required_firmware": "11.02",
+            "content_id": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA",
+            "pkg_file": "http://gs2.ww.prod.dl.playstation.net/gs2/ppkgo/prod/CUSA06122_00/24/f_af05b1c49cc20719275be5a6d9afb72702c37fa13e8bd7470668665ad6961c24/f/UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0117-V0100.pkg",
+            "pkg_name": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0117-V0100.pkg",
+            "pkg_size": "240.5 MB",
+            "pkg_hash": "",
+            "patch_notes": "To make Roblox work better for you, we deliver updates regularly. These updates include bug fixes and improvements for speed and reliability."
+        }
+    },
+    {
+        "tag_name": "v01.16",
+        "name": "Roblox PS v01.16",
+        "published_at": "2023-12-12T00:00:00",
+        "details": {
+            "version": "01.16",
+            "required_firmware": "11.02",
+            "content_id": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA",
+            "pkg_file": "http://gs2.ww.prod.dl.playstation.net/gs2/ppkgo/prod/CUSA06122_00/22/f_cc31cdeb1ca7851409282def9fdd1bb3f7248c7f09cdddf140d783396ad5152d/f/UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0116-V0100.pkg",
+            "pkg_name": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0116-V0100.pkg",
+            "pkg_size": "239.4 MB",
+            "pkg_hash": "",
+            "patch_notes": "To make Roblox work better for you, we deliver updates regularly. These updates include bug fixes and improvements for speed and reliability."
+        }
+    },
+    {
+        "tag_name": "v01.15",
+        "name": "Roblox PS v01.15",
+        "published_at": "2023-12-01T00:00:00",
+        "details": {
+            "version": "01.15",
+            "required_firmware": "11.00",
+            "content_id": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA",
+            "pkg_file": "http://gs2.ww.prod.dl.playstation.net/gs2/ppkgo/prod/CUSA06122_00/18/f_b157c51b07fe3f19e224eff3cdcfe8a234fab9f99f316b1d95c42ada8ba484fd/f/UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0115-V0100.pkg",
+            "pkg_name": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0115-V0100.pkg",
+            "pkg_size": "241.5 MB",
+            "pkg_hash": "",
+            "patch_notes": "To make Roblox work better for you, we deliver updates regularly. These updates include bug fixes and improvements for speed and reliability."
+        }
+    },
+    {
+        "tag_name": "v01.14",
+        "name": "Roblox PS v01.14",
+        "published_at": "2023-11-16T00:00:00",
+        "details": {
+            "version": "01.14",
+            "required_firmware": "11.00",
+            "content_id": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA",
+            "pkg_file": "http://gs2.ww.prod.dl.playstation.net/gs2/ppkgo/prod/CUSA06122_00/17/f_391d8d076e6c66f55c1f89c655c5d56d290fc477aa84ced7bf03d13db01473d9/f/UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0114-V0100.pkg",
+            "pkg_name": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0114-V0100.pkg",
+            "pkg_size": "241.5 MB",
+            "pkg_hash": "",
+            "patch_notes": "To make Roblox work better for you, we deliver updates regularly. These updates include bug fixes and improvements for speed and reliability."
+        }
+    },
+    {
+        "tag_name": "v01.13",
+        "name": "Roblox PS v01.13",
+        "published_at": "2023-11-08T00:00:00",
+        "details": {
+            "version": "01.13",
+            "required_firmware": "11.00",
+            "content_id": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA",
+            "pkg_file": "http://gs2.ww.prod.dl.playstation.net/gs2/ppkgo/prod/CUSA06122_00/15/f_d8d837ab4232d3e88b9e3a41e4cfe924c5a7976a17f9b3049650360f9201af7e/f/UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0113-V0100.pkg",
+            "pkg_name": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0113-V0100.pkg",
+            "pkg_size": "240.1 MB",
+            "pkg_hash": "",
+            "patch_notes": "To make Roblox work better for you, we deliver updates regularly. These updates include bug fixes and improvements for speed and reliability."
+        }
+    },
+    {
+        "tag_name": "v01.12",
+        "name": "Roblox PS v01.12",
+        "published_at": "2023-11-03T00:00:00",
+        "details": {
+            "version": "01.12",
+            "required_firmware": "11.00",
+            "content_id": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA",
+            "pkg_file": "http://gs2.ww.prod.dl.playstation.net/gs2/ppkgo/prod/CUSA06122_00/14/f_e54d48da8c61840de213bbef629099ebedfb0cf245c962ee0662e6427514255a/f/UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0112-V0100.pkg",
+            "pkg_name": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0112-V0100.pkg",
+            "pkg_size": "239 MB",
+            "pkg_hash": "",
+            "patch_notes": "To make Roblox work better for you, we deliver updates regularly. These updates include bug fixes and improvements for speed and reliability."
+        }
+    },
+    {
+        "tag_name": "v01.11",
+        "name": "Roblox PS v01.11",
+        "published_at": "2023-11-03T00:00:00",
+        "details": {
+            "version": "01.11",
+            "required_firmware": "11.00",
+            "content_id": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA",
+            "pkg_file": "http://gs2.ww.prod.dl.playstation.net/gs2/ppkgo/prod/CUSA06122_00/13/f_cda121e4883a2b1a080cb3f6050ca0778168de6a56d39b1c57607932b4dbb63e/f/UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0111-V0100.pkg",
+            "pkg_name": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0111-V0100.pkg",
+            "pkg_size": "247.3 MB",
+            "pkg_hash": "",
+            "patch_notes": "To make Roblox work better for you, we deliver updates regularly. These updates include bug fixes and improvements for speed and reliability."
+        }
+    },
+    {
+        "tag_name": "v01.10",
+        "name": "Roblox PS v01.10",
+        "published_at": "2023-10-30T00:00:00",
+        "details": {
+            "version": "01.10",
+            "required_firmware": "11.00",
+            "content_id": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA",
+            "pkg_file": "http://gs2.ww.prod.dl.playstation.net/gs2/ppkgo/prod/CUSA06122_00/12/f_01ad8747699b08b74fc6ba043ebfe048dd4945e9e93b3f264dc8e42aa21f2d99/f/UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0110-V0100.pkg",
+            "pkg_name": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0110-V0100.pkg",
+            "pkg_size": "239 MB",
+            "pkg_hash": "",
+            "patch_notes": "To make Roblox work better for you, we deliver updates regularly. These updates include bug fixes and improvements for speed and reliability."
+        }
+    },
+    {
+        "tag_name": "v01.09",
+        "name": "Roblox PS v01.09",
+        "published_at": "2023-10-20T00:00:00",
+        "details": {
+            "version": "01.09",
+            "required_firmware": "11.00",
+            "content_id": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA",
+            "pkg_file": "http://gs2.ww.prod.dl.playstation.net/gs2/ppkgo/prod/CUSA06122_00/11/f_abd6e942d1204dfb786cfb148b1972b516fff88a1e1f94fdac6a03361ea6285c/f/UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0109-V0100.pkg",
+            "pkg_name": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0109-V0100.pkg",
+            "pkg_size": "247.3 MB",
+            "pkg_hash": "",
+            "patch_notes": "To make Roblox work better for you, we deliver updates regularly. These updates include bug fixes and improvements for speed and reliability."
+        }
+    },
+    {
+        "tag_name": "v01.08",
+        "name": "Roblox PS v01.08",
+        "published_at": "2023-10-16T00:00:00",
+        "details": {
+            "version": "01.08",
+            "required_firmware": "11.00",
+            "content_id": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA",
+            "pkg_file": "http://gs2.ww.prod.dl.playstation.net/gs2/ppkgo/prod/CUSA06122_00/10/f_c88ccefd524bb3f3e1546b3f16d92a51d5a54e6825f0c4f08a2f98766e7e3804/f/UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0108-V0100.pkg",
+            "pkg_name": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0108-V0100.pkg",
+            "pkg_size": "246 MB",
+            "pkg_hash": "",
+            "patch_notes": "To make Roblox work better for you, we deliver updates regularly. These updates include bug fixes and improvements for speed and reliability."
+        }
+    },
+    {
+        "tag_name": "v01.07",
+        "name": "Roblox PS v01.07",
+        "published_at": "2023-10-11T00:00:00",
+        "details": {
+            "version": "01.07",
+            "required_firmware": "11.00",
+            "content_id": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA",
+            "pkg_file": "http://gs2.ww.prod.dl.playstation.net/gs2/ppkgo/prod/CUSA06122_00/9/f_aec59396448e7ee2d8f6ef904700c7fdc7f12bf3b294523d4edda569b536b54d/f/UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0107-V0100.pkg",
+            "pkg_name": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0107-V0100.pkg",
+            "pkg_size": "245.1 MB",
+            "pkg_hash": "",
+            "patch_notes": "To make Roblox work better for you, we deliver updates regularly. These updates include bug fixes and improvements for speed and reliability."
+        }
+    },
+    {
+        "tag_name": "v01.06",
+        "name": "Roblox PS v01.06",
+        "published_at": "2023-10-11T00:00:00",
+        "details": {
+            "version": "01.06",
+            "required_firmware": "11.00",
+            "content_id": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA",
+            "pkg_file": "http://gs2.ww.prod.dl.playstation.net/gs2/ppkgo/prod/CUSA06122_00/8/f_cec9ecd6b2881ae0781ac22dcdb68425331a9a47fd9bf078b9fa14c408e36a13/f/UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0106-V0100.pkg",
+            "pkg_name": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0106-V0100.pkg",
+            "pkg_size": "233.9 MB",
+            "pkg_hash": "",
+            "patch_notes": "To make Roblox work better for you, we deliver updates regularly. These updates include bug fixes and improvements for speed and reliability."
+        }
+    },
+    {
+        "tag_name": "v01.05",
+        "name": "Roblox PS v01.05",
+        "published_at": "2023-10-06T00:00:00",
+        "details": {
+            "version": "01.05",
+            "required_firmware": "11.00",
+            "content_id": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA",
+            "pkg_file": "http://gs2.ww.prod.dl.playstation.net/gs2/ppkgo/prod/CUSA06122_00/7/f_a1161793355fe6317523ccda6baaab1273de5f5c34fbb0eee4b8b0a18f63d862/f/UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0105-V0100.pkg",
+            "pkg_name": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0105-V0100.pkg",
+            "pkg_size": "233.9 MB",
+            "pkg_hash": "",
+            "patch_notes": "To make Roblox work better for you, we deliver updates regularly. These updates include bug fixes and improvements for speed and reliability."
+        }
+    },
+    {
+        "tag_name": "v01.04",
+        "name": "Roblox PS v01.04",
+        "published_at": "2023-10-04T00:00:00",
+        "details": {
+            "version": "01.04",
+            "required_firmware": "11.00",
+            "content_id": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA",
+            "pkg_file": "http://gs2.ww.prod.dl.playstation.net/gs2/ppkgo/prod/CUSA06122_00/5/f_07c54151b2d258acc0d29a56a037d868dd402cd71506d3a26fbb7643002d4f16/f/UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0104-V0100.pkg",
+            "pkg_name": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0104-V0100.pkg",
+            "pkg_size": "233.9 MB",
+            "pkg_hash": "",
+            "patch_notes": "To make Roblox work better for you, we deliver updates regularly. These updates include bug fixes and improvements for speed and reliability."
+        }
+    },
+    {
+        "tag_name": "v01.03",
+        "name": "Roblox PS v01.03",
+        "published_at": "2023-10-03T00:00:00",
+        "details": {
+            "version": "01.03",
+            "required_firmware": "11.00",
+            "content_id": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA",
+            "pkg_file": "http://gs2.ww.prod.dl.playstation.net/gs2/ppkgo/prod/CUSA06122_00/4/f_2e8c40f1ed4e71f5584e5c9f22e0b30fb383e1a016c448365ef2d86866721df7/f/UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0103-V0100.pkg",
+            "pkg_name": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0103-V0100.pkg",
+            "pkg_size": "233.9 MB",
+            "pkg_hash": "",
+            "patch_notes": "To make Roblox work better for you, we deliver updates regularly. These updates include bug fixes and improvements for speed and reliability."
+        }
+    },
+    {
+        "tag_name": "v01.02",
+        "name": "Roblox PS v01.02",
+        "published_at": "2023-09-30T00:00:00",
+        "details": {
+            "version": "01.02",
+            "required_firmware": "11.00",
+            "content_id": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA",
+            "pkg_file": "http://gs2.ww.prod.dl.playstation.net/gs2/ppkgo/prod/CUSA06122_00/3/f_3ee74834cad4b9caa282290a7ca89a86d41755463abead8deaefacacd6f9bea7/f/UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0102-V0100.pkg",
+            "pkg_name": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0102-V0100.pkg",
+            "pkg_size": "233.9 MB",
+            "pkg_hash": "",
+            "patch_notes": "To make Roblox work better for you, we deliver updates regularly. These updates include bug fixes and improvements for speed and reliability."
+        }
+    },
+    {
+        "tag_name": "v01.01",
+        "name": "Roblox PS v01.01",
+        "published_at": "2023-09-28T00:00:00",
+        "details": {
+            "version": "01.01",
+            "required_firmware": "11.00",
+            "content_id": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA",
+            "pkg_file": "http://gs2.ww.prod.dl.playstation.net/gs2/ppkgo/prod/CUSA06122_00/1/f_2e93f73109cdc005d6104fe7247334983047f264984a41cad5ccc2e77d74a8de/f/UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0101-V0100.pkg",
+            "pkg_name": "UP1821-CUSA06122_00-ROBLOXPLAYERBETA-A0101-V0100.pkg",
+            "pkg_size": "233.9 MB",
+            "pkg_hash": "",
+            "patch_notes": "To make Roblox work better for you, we deliver updates regularly. These updates include bug fixes and improvements for speed and reliability."
+        }
+    }
+]
