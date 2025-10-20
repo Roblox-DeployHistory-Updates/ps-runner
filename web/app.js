@@ -246,7 +246,7 @@ function renderRelease(r) {
       <div class="tag">
         <span>${name || tag}</span>
         ${isPS ? '<span class="chip">PlayStation</span>' : ''}
-        ${r._archived ? makeTag('Archived') : ''}
+        ${r._archived ? '<span class="chip archived" title="Archived items are from other sources predating the tracker.">Archived</span>' : ''}
       </div>
     </div>
     <div class="tile-body">
