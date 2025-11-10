@@ -95,7 +95,7 @@ jobs:
           fw_hex=$(sfo -q SYSTEM_VER "$pkg_name" || echo "0x00000000")
           fw_major=$(( (fw_hex >> 24) & 0xFF ))
           fw_minor=$(( (fw_hex >> 16) & 0xFF ))
-          firmware="${fw_major}.$(printf "%02d" "$fw_minor")"
+          firmware=$(printf "%x.%02x" "$fw_major" "$fw_minor")
           echo "firmware=$firmware" >> "$GITHUB_OUTPUT"
 
           patch_notes=$(strings "$pkg_name" | awk '/<changeinfo>/,/<\/changeinfo>/' |
